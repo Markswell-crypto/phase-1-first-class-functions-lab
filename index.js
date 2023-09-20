@@ -22,3 +22,5 @@ const fareTripler = createFareMultiplier(3);
 function selectDifferentDrivers(drivers, func) {
   return func(drivers);
 }
+// First Class functions
+//
